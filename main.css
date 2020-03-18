@@ -9,8 +9,7 @@ body {
 
 }
 .container  {
-    width: 375px;
-    background-color: #121620;
+
 }
 
 .chair-number {
@@ -33,6 +32,7 @@ body {
     border: 1px solid #848a95;
 }
 
-a > img {
-
+nav.navbar{
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
